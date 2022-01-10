@@ -1,0 +1,4 @@
+baseURL = 'http://ibrahimmuftee.net/'
+languageCode = 'en-us'
+title = "Ibrahim's Website"
+theme = "m10c"
